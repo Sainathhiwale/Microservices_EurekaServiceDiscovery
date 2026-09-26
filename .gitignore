@@ -1,0 +1,15 @@
+# Java / Maven build output
+**/target/
+**/build/
+**/bin/
+**/.settings/
+**/.classpath
+**/.project
+
+# IDE files
+.vscode/
+.idea/
+
+# Local runtime artifacts
+**/zipkin-server-*.jar
+*.log
